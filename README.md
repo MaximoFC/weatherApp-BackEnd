@@ -28,7 +28,7 @@ This is the backend API for the Weather App, designed to handle and store user s
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app-backend.git
+git clone https://github.com/MaximoFC/weatherApp-BackEnd
 cd weather-app-backend
 ```
 
@@ -63,4 +63,4 @@ http://localhost:4000
 
 - **Developer:** Máximo Callejas
 - **Email:** maximofcallejas@gmail.com
-- **GitHub:** https://github.com/MaximoFC
+- **GitHub:** [https://github.com/MaximoFC](https://github.com/MaximoFC)
